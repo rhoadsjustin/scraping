@@ -1,0 +1,27 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhoadsjustin/scraping.git"
+  },
+  "keywords": [
+    "web",
+    "scraping",
+    "tutorial"
+  ],
+  "author": "justin rhoads",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhoadsjustin/scraping/issues"
+  },
+  "homepage": "https://github.com/rhoadsjustin/scraping#readme",
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  }
+}
